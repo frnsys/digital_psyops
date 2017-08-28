@@ -10,6 +10,8 @@ A Python workshop will run in parallel at the start of the course. It is not req
 
 In addition to these research projects, the class will involve readings and discussions.
 
+Note that because this course is new and experimental, the syllabus may be adjusted throughout the semester.
+
 ## Research project examples
 
 - [Information Wars: A Window into the Alternative Media Ecosystem](https://medium.com/hci-design-at-uw/information-wars-a-window-into-the-alternative-media-ecosystem-a1347f32fd8f). Kate Starbird.
@@ -17,6 +19,20 @@ In addition to these research projects, the class will involve readings and disc
 - [Portrait of a botnet](https://medium.com/dfrlab/portrait-of-a-botnet-12fa9d5d6b3). Ben Nimmo.
 - [How Russian Propaganda Spread From a Parody Website to Fox News](https://www.nytimes.com/interactive/2017/06/07/world/europe/anatomy-of-fake-news-russian-propaganda.html). Neil MacFarquhar & Andrew Rossback.
 - [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/).
+
+## Learning Python resources
+
+If you need other materials to supplement what we cover about Python in class, here are a few:
+
+- <https://learnxinyminutes.com/docs/python/>
+- <https://www.codecademy.com/learn/learn-python>
+- <https://developers.google.com/edu/python/>
+- <http://pymbook.readthedocs.io/en/py3/>
+- <https://python.swaroopch.com/>
+- <https://www.dataquest.io/blog/web-scraping-beautifulsoup/>
+- <http://anandology.com/python-practice-book/index.html>
+
+This tool visualizes what your code is doing: <http://pythontutor.com/visualize.html>
 
 # Office Hours
 
@@ -44,7 +60,7 @@ Your grade will be computed as follows:
 | 09/21 | -Rosh Hashanah-                        |                                                             |
 | 09/26 | Computational Propaganda               | [Readings](#computational-propaganda)                       |
 | 09/28 | Python: ELIZA                          |                                                             |
-| 10/03 | Focus on Russia                        | [Readings](#guest-speaker-donna-and-russian-info-campaigns) |
+| 10/03 | Focus on Russia                        | [Readings](#guest-speaker-on-russian-campaigns) |
 | 10/05 | Python: ELIZA continued                |                                                             |
 | 10/10 | Human Behavior                         | [Readings](#human-behavior)                                 |
 | 10/12 | Python: Using the internet             |                                                             |
