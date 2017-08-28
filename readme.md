@@ -32,100 +32,40 @@ Your grade will be computed as follows:
 
 # Syllabus
 
-| Date  | Topic                  | Readings Due |
-|-------|------------------------|--------------|
-| 08/29 | Introduction           |              |
-| 08/31 | Propaganda             |
-| 09/05 | Intro to Python        |
-| 09/07 | Intro to Python cont'd |
-| 09/12 |                        |
-| 09/14 | Python                 |
-| 09/19 |                        |
-| 09/21 | -Rosh Hashanah-        |
-| 09/26 |                        |
-| 09/28 | Python                 |
-| 10/03 |                        |
-| 10/05 | Python                 |
-| 10/10 |                        |
-| 10/12 | Python                 |
-| 10/17 |                        |
-| 10/19 | Python                 |
-| 10/24 |                        |
-| 10/26 | Python                 |
-| 10/31 |                        |
-| 11/02 | Python                 |
-| 11/07 |                        |
-| 11/09 | Python                 |
-| 11/14 |                        |
-| 11/16 | Python                 |
-| 11/21 |                        |
-| 11/23 | -Thanksgiving-         |
-| 11/28 |                        |
-| 11/30 | Python                 |
-| 12/05 |                        |
-| 12/07 | Python                 |
-| 12/12 |                        |
-| 12/14 |                        |
-
----
-
-# 01: Introduction
-
-- introduce myself
-- class introductions
-    - what are you studying?
-    - what's your interest in the course?
-- what is "psyops?" (high-level intro)
-    - definition
-    - can get very broad
-- course overview
-    - syllabus
-    - programming projects
-        - intro to python (tutor available)
-        - bots, scraping, network analysis
-    - readings and discussion
-- discussion of initial reading
-
-# 02:
-
-# 03-04: Intro to Python
-
-- overview of programming
-    - who's already familiar?
-- why Python?
-- the skills we'll focus on
-    - scraping (HTML and HTTP basics)
-    - bots
-    - networks (?)
-- TODO
-
----
-
-Programming topics:
-
-- Intro to Programming with Python
-    - the terminal
-    - Python interpreter
-        - variables
-        - functions
-        - dicts, lists
-    - writing a script
-        - loops
-        - conditionals
-        - objects
-- Writing a bot: Eliza (interact in the terminal)
-    - Intro to Regex
-- Integrating Eliza with Slack
-- Working with APIs
-    - Intro to HTTP
-        - urls, requests, responses, methods
-- Scraping the web
-    - Intro to HTML, CSS
-- ??? May be too much
-    - Networks?
-    - Really basic NLP/ML?
-
----
+| Date  | Topic                                  | Due                                                         |
+|-------|----------------------------------------|-------------------------------------------------------------|
+| 08/29 | Class overview                         |                                                             |
+| 08/31 | Introduction                           | [Readings](#introduction)                                   |
+| 09/05 | Brief history of psychological warfare |                                                             |
+| 09/07 | Python: Basic concepts                 |                                                             |
+| 09/12 | Advertising & Public Relations         | [Readings](#advertising--public-relations)                  |
+| 09/14 | Python: Basics continued               |                                                             |
+| 09/19 | Analytics & Targeting                  | [Readings](#analytics--targeting)                           |
+| 09/21 | -Rosh Hashanah-                        |                                                             |
+| 09/26 | Computational Propaganda               | [Readings](#computational-propaganda)                       |
+| 09/28 | Python: ELIZA                          |                                                             |
+| 10/03 | Focus on Russia                        | [Readings](#guest-speaker-donna-and-russian-info-campaigns) |
+| 10/05 | Python: ELIZA continued                |                                                             |
+| 10/10 | Human Behavior                         | [Readings](#human-behavior)                                 |
+| 10/12 | Python: Using the internet             |                                                             |
+| 10/17 | Memes & Virality                       | [Readings](#memes--virality)                                |
+| 10/19 | Python: Using the internet continued   |                                                             |
+| 10/24 | Astroturfing & Political Bots          | [Readings](#astroturfing-and-political-bots)                |
+| 10/26 | Project time                           |                                                             |
+| 10/31 | Silicon Valley Ethics                  | [Readings](#silicon-valley-ethics)                          |
+| 11/02 | Project time                           |                                                             |
+| 11/07 | The Economics of Attention             | [Readings](#the-economics-of-attention)                     |
+| 11/09 | Project time                           |                                                             |
+| 11/14 | The Military-Entertainment Complex     | [Readings](#the-military-entertainment-complex)             |
+| 11/16 | Project time                           |                                                             |
+| 11/21 | Reality Warping Tech                   | [Readings](#reality-warping-tech)                           |
+| 11/23 | -Thanksgiving-                         |                                                             |
+| 11/28 | Counter-Strategies                     | [Readings](#counter-strategies)                             |
+| 11/30 | Project time                           |                                                             |
+| 12/05 | Project time                           |                                                             |
+| 12/07 | Project time                           |                                                             |
+| 12/12 | Project Presentations                  | Project presentations due                                   |
+| 12/14 | Project Presentations                  |                                                             |
 
 ## Readings
 
@@ -153,7 +93,7 @@ Programming topics:
 - [How To Use Facebook And Fake News To Get People To Murder Each Other](https://www.buzzfeed.com/jasonpatinkin/how-to-get-people-to-murder-each-other-through-fake-news-and?utm_term=.qiP45RQnE#.nwQ5zeaWZ). Jason Patinkin.
 - [Did Media Literacy Backfire?](https://points.datasociety.net/did-media-literacy-backfire-7418c084d88d). danah boyd.
 
-### Guest speaker: Donna and Russian info campaigns
+### Guest speaker on Russian campaigns
 - [The Agency](https://www.nytimes.com/2015/06/07/magazine/the-agency.html). Adrian Chen.
 - [A Powerful Russian Weapon: The Spread of False Stories](https://www.nytimes.com/2016/08/29/world/europe/russia-sweden-disinformation.html). Neil MacFarquhar.
 - [Trolling for Trump: How Russia Is Trying to Destroy Our Democracy](https://warontherocks.com/2016/11/trolling-for-trump-how-russia-is-trying-to-destroy-our-democracy/). Andrew Weisburd, Clint Watts & JM Berger.
@@ -176,13 +116,7 @@ Programming topics:
 - [How Trump's Shitposters Take Over Twitter Without Bots](https://motherboard.vice.com/en_us/article/4xe9nn/trump-shitposters-twitter-bots). Jason Koebler.
 - [Can NATO Weaponize Memes?](http://foreignpolicy.com/2017/04/13/nato-cyber-information-warfare-battle-of-ideas-memes-internet-culture/amp/). Robbie Gramer.
 
-### Silicon Valley responsibility
-- [Fake news sites are using Facebook to spread Ebola panic](https://www.theverge.com/2014/10/22/7028983/fake-news-sites-are-using-facebook-to-spread-ebola-panic). Josh Dzieza.
-- [Facebook enters war against “information operations,” acknowledges election hijinx](https://arstechnica.com/information-technology/2017/05/facebook-enters-war-against-information-operations-acknowledges-election-hijinx/). Sean Gallagher.
-- [A 61-million-person experiment in social influence and political mobilization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/). Robert M. Bond, Christopher J. Fariss, Jason J. Jones, Adam D. I. Kramer, Cameron Marlow, Jaime E. Settle, & James H. Fowler.
-- [Facebook reveals news feed experiment to control emotions](https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds). Robert Booth.
-
-### Astroturfing and Political bots
+### Astroturfing and Political Bots
 - [Anti-net neutrality spammers are impersonating real people to flood FCC comments](https://www.theverge.com/2017/5/10/15610744/anti-net-neutrality-fake-comments-identities). Colin Lecher, Adi Robertson, & Russell Brandom
 - [“Automating power: Social bot interference in global politics](http://firstmonday.org/ojs/index.php/fm/article/view/6161/5300). Samuel Woolley.
 - [How to Hack an Election](https://www.bloomberg.com/features/2016-how-to-hack-an-election/). Jordan Robertson, Michael Riley, & Andrew Willis.
@@ -190,7 +124,13 @@ Programming topics:
 - [Example analysis](https://mobile.twitter.com/conspirator0/status/900158823515770880)
 - [Portrait of a botnet](https://medium.com/dfrlab/portrait-of-a-botnet-12fa9d5d6b3). Ben Nimmo.
 
-### The economics of attention
+### Silicon Valley Ethics
+- [Fake news sites are using Facebook to spread Ebola panic](https://www.theverge.com/2014/10/22/7028983/fake-news-sites-are-using-facebook-to-spread-ebola-panic). Josh Dzieza.
+- [Facebook enters war against “information operations,” acknowledges election hijinx](https://arstechnica.com/information-technology/2017/05/facebook-enters-war-against-information-operations-acknowledges-election-hijinx/). Sean Gallagher.
+- [A 61-million-person experiment in social influence and political mobilization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/). Robert M. Bond, Christopher J. Fariss, Jason J. Jones, Adam D. I. Kramer, Cameron Marlow, Jaime E. Settle, & James H. Fowler.
+- [Facebook reveals news feed experiment to control emotions](https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds). Robert Booth.
+
+### The Economics of Attention
 - [You Are the Product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product). John Lanchester.
 - [Without these ads, there wouldn't be money in fake news](http://www.latimes.com/business/technology/la-fi-tn-fake-news-ad-economy-20161208-story.html). Paresh Dave.
 - [The Macedonian Teens Who Mastered Fake News](https://www.wired.com/2017/02/veles-macedonia-fake-news/). Samanth Subramanian.
@@ -200,14 +140,6 @@ Programming topics:
 - [How the CIA Hoodwinked Hollywood](https://www.theatlantic.com/entertainment/archive/2016/07/operation-tinseltown-how-the-cia-manipulates-hollywood/491138/). Nicholas Schou.
 - [Japan: The Manga Military](http://thediplomat.com/2016/01/japans-creative-industrial-complex/). Matthew Brummer.
 
-### Counter-strategies
-- [The Rise of Social Bots](https://cacm.acm.org/magazines/2016/7/204021-the-rise-of-social-bots/fulltext). Emilio Ferrara, Onur Varol, Clayton Davis, Filippo Menczer, & Alessandro Flammini
-- [Russian Disinformation Technology](https://www.technologyreview.com/s/604084/russian-disinformation-technology/). John Pollock.
-- [Meet the Ad Companies Ditching Breitbart and Fake News](https://www.wired.com/2016/12/fake-news-will-go-away-tech-behind-ads-wont-pay/). Davey Alba.
-- [Defense Against the Dark Arts: Networked Propaganda and Counter-Propaganda](https://medium.com/tow-center/defense-against-the-dark-arts-networked-propaganda-and-counter-propaganda-deb7145aa76a). Jonathan Stray.
-- [How to Detect Fake News in Real-Time](https://shift.newco.co/how-to-detect-fake-news-in-real-time-9fdae0197bfd). Krishna Bharat.
-- [Digital Wildfires in a Hyperconnected World](http://reports.weforum.org/global-risks-2013/risk-case-1/digital-wildfires-in-a-hyperconnected-world/).
-
 ### Reality warping tech
 - [Pictures May Not Lie But Doctored Photos Change History](http://www.science20.com/news_releases/pictures_may_not_lie_but_doctored_photos_change_history).
 - [Fake News Is About to Get Even Scarier than You Ever Dreamed](https://www.vanityfair.com/news/2017/01/fake-news-technology). Nick Bilton.
@@ -215,3 +147,11 @@ Programming topics:
 - Other examples
     - <https://toinformistoinfluence.com/2012/06/15/images-a-matter-of-perspective/>
     - <https://thelede.blogs.nytimes.com/2008/07/10/in-an-iranian-image-a-missile-too-many/?mcubz=1>
+
+### Counter-strategies
+- [The Rise of Social Bots](https://cacm.acm.org/magazines/2016/7/204021-the-rise-of-social-bots/fulltext). Emilio Ferrara, Onur Varol, Clayton Davis, Filippo Menczer, & Alessandro Flammini
+- [Russian Disinformation Technology](https://www.technologyreview.com/s/604084/russian-disinformation-technology/). John Pollock.
+- [Meet the Ad Companies Ditching Breitbart and Fake News](https://www.wired.com/2016/12/fake-news-will-go-away-tech-behind-ads-wont-pay/). Davey Alba.
+- [Defense Against the Dark Arts: Networked Propaganda and Counter-Propaganda](https://medium.com/tow-center/defense-against-the-dark-arts-networked-propaganda-and-counter-propaganda-deb7145aa76a). Jonathan Stray.
+- [How to Detect Fake News in Real-Time](https://shift.newco.co/how-to-detect-fake-news-in-real-time-9fdae0197bfd). Krishna Bharat.
+- [Digital Wildfires in a Hyperconnected World](http://reports.weforum.org/global-risks-2013/risk-case-1/digital-wildfires-in-a-hyperconnected-world/).
