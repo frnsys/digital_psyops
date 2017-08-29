@@ -145,6 +145,7 @@ Your grade will be computed as follows:
 - [Facebook enters war against “information operations,” acknowledges election hijinx](https://arstechnica.com/information-technology/2017/05/facebook-enters-war-against-information-operations-acknowledges-election-hijinx/). Sean Gallagher.
 - [A 61-million-person experiment in social influence and political mobilization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/). Robert M. Bond, Christopher J. Fariss, Jason J. Jones, Adam D. I. Kramer, Cameron Marlow, Jaime E. Settle, & James H. Fowler.
 - [Facebook reveals news feed experiment to control emotions](https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds). Robert Booth.
+- [The Fake-News Fallacy](http://www.newyorker.com/magazine/2017/09/04/the-fake-news-fallacy). Adrian Chen.
 
 ### The Economics of Attention
 - [You Are the Product](https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product). John Lanchester.
@@ -171,3 +172,4 @@ Your grade will be computed as follows:
 - [Defense Against the Dark Arts: Networked Propaganda and Counter-Propaganda](https://medium.com/tow-center/defense-against-the-dark-arts-networked-propaganda-and-counter-propaganda-deb7145aa76a). Jonathan Stray.
 - [How to Detect Fake News in Real-Time](https://shift.newco.co/how-to-detect-fake-news-in-real-time-9fdae0197bfd). Krishna Bharat.
 - [Digital Wildfires in a Hyperconnected World](http://reports.weforum.org/global-risks-2013/risk-case-1/digital-wildfires-in-a-hyperconnected-world/).
+- [Blocking Ads from Pages that Repeatedly Share False News](https://newsroom.fb.com/news/2017/08/blocking-ads-from-pages-that-repeatedly-share-false-news/). Satwik Shukla & Tessa Lyons.
