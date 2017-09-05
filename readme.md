@@ -48,40 +48,40 @@ Your grade will be computed as follows:
 
 # Syllabus
 
-| Date  | Topic                                  | Due                                                         |
-|-------|----------------------------------------|-------------------------------------------------------------|
-| 08/29 | Class overview                         |                                                             |
-| 08/31 | Introduction                           | [Readings](#introduction)                                   |
-| 09/05 | Brief history of psychological warfare |                                                             |
-| 09/07 | Python: Basic concepts                 |                                                             |
-| 09/12 | Advertising & Public Relations         | [Readings](#advertising--public-relations)                  |
-| 09/14 | Python: Basics continued               |                                                             |
-| 09/19 | Analytics & Targeting                  | [Readings](#analytics--targeting)                           |
-| 09/21 | -Rosh Hashanah-                        |                                                             |
-| 09/26 | Computational Propaganda               | [Readings](#computational-propaganda)                       |
-| 09/28 | Python: ELIZA                          |                                                             |
-| 10/03 | Focus on Russia                        | [Readings](#guest-speaker-on-russian-campaigns) |
-| 10/05 | Python: ELIZA continued                |                                                             |
-| 10/10 | Human Behavior                         | [Readings](#human-behavior)                                 |
-| 10/12 | Python: Using the internet             |                                                             |
-| 10/17 | Memes & Virality                       | [Readings](#memes--virality)                                |
-| 10/19 | Python: Using the internet continued   |                                                             |
-| 10/24 | Astroturfing & Political Bots          | [Readings](#astroturfing-and-political-bots)                |
-| 10/26 | Project time                           |                                                             |
-| 10/31 | Silicon Valley Ethics                  | [Readings](#silicon-valley-ethics)                          |
-| 11/02 | Project time                           |                                                             |
-| 11/07 | The Economics of Attention             | [Readings](#the-economics-of-attention)                     |
-| 11/09 | Project time                           |                                                             |
-| 11/14 | The Military-Entertainment Complex     | [Readings](#the-military-entertainment-complex)             |
-| 11/16 | Project time                           |                                                             |
-| 11/21 | Reality Warping Tech                   | [Readings](#reality-warping-tech)                           |
-| 11/23 | -Thanksgiving-                         |                                                             |
-| 11/28 | Counter-Strategies                     | [Readings](#counter-strategies)                             |
-| 11/30 | Project time                           |                                                             |
-| 12/05 | Project time                           |                                                             |
-| 12/07 | Project time                           |                                                             |
-| 12/12 | Project Presentations                  | Project presentations due                                   |
-| 12/14 | Project Presentations                  |                                                             |
+| Date  | Topic                                | Due                                             |
+|-------|--------------------------------------|-------------------------------------------------|
+| 08/29 | Class overview                       |                                                 |
+| 08/31 | Introduction                         | [Readings](#introduction)                       |
+| 09/05 | Python: Basic concepts               |                                                 |
+| 09/07 | Python: Basic concepts               |                                                 |
+| 09/12 | Advertising & Public Relations       | [Readings](#advertising--public-relations)      |
+| 09/14 | Python: Basics continued             |                                                 |
+| 09/19 | Analytics & Targeting                | [Readings](#analytics--targeting)               |
+| 09/21 | -Rosh Hashanah-                      |                                                 |
+| 09/26 | Computational Propaganda             | [Readings](#computational-propaganda)           |
+| 09/28 | Python: ELIZA                        |                                                 |
+| 10/03 | Focus on Russia                      | [Readings](#guest-speaker-on-russian-campaigns) |
+| 10/05 | Python: ELIZA continued              |                                                 |
+| 10/10 | Human Behavior                       | [Readings](#human-behavior)                     |
+| 10/12 | Python: Using the internet           |                                                 |
+| 10/17 | Memes & Virality                     | [Readings](#memes--virality)                    |
+| 10/19 | Python: Using the internet continued |                                                 |
+| 10/24 | Astroturfing & Political Bots        | [Readings](#astroturfing-and-political-bots)    |
+| 10/26 | Project time                         |                                                 |
+| 10/31 | Silicon Valley Ethics                | [Readings](#silicon-valley-ethics)              |
+| 11/02 | Project time                         |                                                 |
+| 11/07 | The Economics of Attention           | [Readings](#the-economics-of-attention)         |
+| 11/09 | Project time                         |                                                 |
+| 11/14 | The Military-Entertainment Complex   | [Readings](#the-military-entertainment-complex) |
+| 11/16 | Project time                         |                                                 |
+| 11/21 | Reality Warping Tech                 | [Readings](#reality-warping-tech)               |
+| 11/23 | -Thanksgiving-                       |                                                 |
+| 11/28 | Counter-Strategies                   | [Readings](#counter-strategies)                 |
+| 11/30 | Project time                         |                                                 |
+| 12/05 | Project time                         |                                                 |
+| 12/07 | Project time                         |                                                 |
+| 12/12 | Project Presentations                | Project presentations due                       |
+| 12/14 | Project Presentations                |                                                 |
 
 ## Readings
 
