@@ -59,9 +59,9 @@ Your grade will be computed as follows:
 | 09/19 | Analytics & Targeting                | [Readings](#analytics--targeting)               |
 | 09/21 | -Rosh Hashanah-                      |                                                 |
 | 09/26 | Computational Propaganda             | [Readings](#computational-propaganda)           |
-| 09/28 | Python: ELIZA                        |                                                 |
-| 10/03 | Focus on Russia                      | [Readings](#guest-speaker-on-russian-campaigns) |
-| 10/05 | Python: ELIZA continued              |                                                 |
+| 09/28 | No class                             |                                                 |
+| 10/03 | Python: continued                    |                                                 |
+| 10/05 | Focus on Cybersecurity               |                                                 |
 | 10/10 | Human Behavior                       | [Readings](#human-behavior)                     |
 | 10/12 | Python: Using the internet           |                                                 |
 | 10/17 | Memes & Virality                     | [Readings](#memes--virality)                    |
@@ -99,21 +99,17 @@ Your grade will be computed as follows:
 - [The great British Brexit robbery: how our democracy was hijacked](https://www.theguardian.com/technology/2017/may/07/the-great-british-brexit-robbery-hijacked-democracy). Carole Cadwalladr.
 
 ### Computational propaganda
-- [Harder, Better, Faster, Stronger: International Law and the Future of Online PsyOps](http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2017/02/Comprop-Working-Paper-Hwang-and-Rosen.pdf). Tim Hwang & Lea Rosen.
-- [Tactical Virality](http://reallifemag.com/tactical-virality/). Hannah Barton.
 - [Media hacking](https://render.betaworks.com/media-hacking-3b1e350d619c). John Borthwick.
 - [What does fake news tell us about life in the digital age? Not what you might expect](http://www.niemanlab.org/2017/04/what-does-fake-news-tell-us-about-life-in-the-digital-age-not-what-you-might-expect/). Jonathan Gray, Liliana Bounegru, & Tommaso Venturini.
 - [Fake news. It’s complicated.](https://firstdraftnews.com/fake-news-complicated/). Claire Wardle.
-- [Revealed: US spy operation that manipulates social media](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks). Nick Fielding & Ian Cobain.
 - [US secretly created 'Cuban Twitter' to stir unrest and undermine government](https://www.theguardian.com/world/2014/apr/03/us-cuban-twitter-zunzuneo-stir-unrest).
-- [How To Use Facebook And Fake News To Get People To Murder Each Other](https://www.buzzfeed.com/jasonpatinkin/how-to-get-people-to-murder-each-other-through-fake-news-and?utm_term=.qiP45RQnE#.nwQ5zeaWZ). Jason Patinkin.
 - [Did Media Literacy Backfire?](https://points.datasociety.net/did-media-literacy-backfire-7418c084d88d). danah boyd.
+- [Harder, Better, Faster, Stronger: International Law and the Future of Online PsyOps](http://comprop.oii.ox.ac.uk/wp-content/uploads/sites/89/2017/02/Comprop-Working-Paper-Hwang-and-Rosen.pdf). Tim Hwang & Lea Rosen.
 
-### Guest speaker on Russian campaigns
-- [The Agency](https://www.nytimes.com/2015/06/07/magazine/the-agency.html). Adrian Chen.
-- [A Powerful Russian Weapon: The Spread of False Stories](https://www.nytimes.com/2016/08/29/world/europe/russia-sweden-disinformation.html). Neil MacFarquhar.
-- [Trolling for Trump: How Russia Is Trying to Destroy Our Democracy](https://warontherocks.com/2016/11/trolling-for-trump-how-russia-is-trying-to-destroy-our-democracy/). Andrew Weisburd, Clint Watts & JM Berger.
-- [How Russian Propaganda Spread From a Parody Website to Fox News](https://www.nytimes.com/interactive/2017/06/07/world/europe/anatomy-of-fake-news-russian-propaganda.html). Neil MacFarquhar & Andrew Rossback.
+Optional readings:
+- [Tactical Virality](http://reallifemag.com/tactical-virality/). Hannah Barton.
+- [Revealed: US spy operation that manipulates social media](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks). Nick Fielding & Ian Cobain.
+- [How To Use Facebook And Fake News To Get People To Murder Each Other](https://www.buzzfeed.com/jasonpatinkin/how-to-get-people-to-murder-each-other-through-fake-news-and?utm_term=.qiP45RQnE#.nwQ5zeaWZ). Jason Patinkin.
 
 ### Human behavior
 - [Invisible Manipulators of Your Mind](http://www.nybooks.com/articles/2017/04/20/kahneman-tversky-invisible-mind-manipulators/). Tamsin Shaw.
