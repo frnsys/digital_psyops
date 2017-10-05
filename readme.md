@@ -115,11 +115,13 @@ Optional readings:
 - [Invisible Manipulators of Your Mind](http://www.nybooks.com/articles/2017/04/20/kahneman-tversky-invisible-mind-manipulators/). Tamsin Shaw.
 - [Misinformation and its correction: Continued influence and successful debiasing](http://www.academia.edu/download/42017448/Misinformation_and_Its_Correction_Contin20160203-30232-wv5jdz.pdf). Stephan Lewandowsky, Ullrich K. H. Ecker, Colleen M. Seifert, Norbert Schwarz, & John Cook.
 - [Trump’s Lies vs. Your Brain](http://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658). Maria Konnikova.
+- [The Psychology Behind Fake News](https://insight.kellogg.northwestern.edu/article/the-psychology-behind-fake-news). Adam Waytz.
+- [Is There Any Hope for Facebook's Fact-Checking Efforts?](https://www.theatlantic.com/technology/archive/2017/09/facebook-fact-checking-challenges/540192/). Jon Christian.
+
+Optional readings:
+- [Emotion shapes the diffusion of moralized content in social networks](http://s3.amazonaws.com/arena-attachments/1113584/39e94e468bce1f9ba2539f7efef4ae56.pdf?1499369765). William J. Brady, Julian A. Wills, John T. Jost, Joshua A. Tucker, & Jay J. Van Bavel.
 - [You Won’t Finish This Article](http://www.slate.com/articles/technology/technology/2013/06/how_people_read_online_why_you_won_t_finish_this_article.html). Farhad Manjoo.
 - [Stanford researchers find students have trouble judging the credibility of information online](https://ed.stanford.edu/news/stanford-researchers-find-students-have-trouble-judging-credibility-information-online). Brooke Donald.
-- [The Psychology Behind Fake News](https://insight.kellogg.northwestern.edu/article/the-psychology-behind-fake-news). Adam Waytz.
-- Additional readings
-- [Emotion shapes the diffusion of moralized content in social networks](http://s3.amazonaws.com/arena-attachments/1113584/39e94e468bce1f9ba2539f7efef4ae56.pdf?1499369765). William J. Brady, Julian A. Wills, John T. Jost, Joshua A. Tucker, & Jay J. Van Bavel.
 
 ### Memes & Virality
 - [War Goes Viral](https://www.theatlantic.com/magazine/archive/2016/11/war-goes-viral/501125/). Emerson T. Booking & P. W. Singer.
