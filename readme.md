@@ -68,13 +68,13 @@ Your grade will be computed as follows:
 | 10/19 | Python: Using the internet continued |                                                 |
 | 10/24 | Astroturfing & Political Bots        | [Readings](#astroturfing-and-political-bots)    |
 | 10/26 | Project time                         |                                                 |
-| 10/31 | Silicon Valley Ethics                | [Readings](#silicon-valley-ethics)              |
+| 10/31 | Reality Warping Tech                 | [Readings](#reality-warping-tech)               |
 | 11/02 | Project time                         |                                                 |
 | 11/07 | The Economics of Attention           | [Readings](#the-economics-of-attention)         |
 | 11/09 | Project time                         |                                                 |
 | 11/14 | The Military-Entertainment Complex   | [Readings](#the-military-entertainment-complex) |
 | 11/16 | Project time                         |                                                 |
-| 11/21 | Reality Warping Tech                 | [Readings](#reality-warping-tech)               |
+| 11/21 | Silicon Valley Ethics                | [Readings](#silicon-valley-ethics)              |
 | 11/23 | -Thanksgiving-                       |                                                 |
 | 11/28 | Counter-Strategies                   | [Readings](#counter-strategies)                 |
 | 11/30 | Project time                         |                                                 |
@@ -138,6 +138,14 @@ Optional readings:
 - [Example analysis](https://mobile.twitter.com/conspirator0/status/900158823515770880)
 - [Portrait of a botnet](https://medium.com/dfrlab/portrait-of-a-botnet-12fa9d5d6b3). Ben Nimmo.
 
+### Reality warping tech
+- [Pictures May Not Lie But Doctored Photos Change History](http://www.science20.com/news_releases/pictures_may_not_lie_but_doctored_photos_change_history).
+- [Fake News Is About to Get Even Scarier than You Ever Dreamed](https://www.vanityfair.com/news/2017/01/fake-news-technology). Nick Bilton.
+- [reality warping tech](https://www.are.na/francis-tseng/reality-warping-tech)
+- Other examples
+    - <https://toinformistoinfluence.com/2012/06/15/images-a-matter-of-perspective/>
+    - <https://thelede.blogs.nytimes.com/2008/07/10/in-an-iranian-image-a-missile-too-many/?mcubz=1>
+
 ### Silicon Valley Ethics
 - [Fake news sites are using Facebook to spread Ebola panic](https://www.theverge.com/2014/10/22/7028983/fake-news-sites-are-using-facebook-to-spread-ebola-panic). Josh Dzieza.
 - [Facebook enters war against “information operations,” acknowledges election hijinx](https://arstechnica.com/information-technology/2017/05/facebook-enters-war-against-information-operations-acknowledges-election-hijinx/). Sean Gallagher.
@@ -154,14 +162,6 @@ Optional readings:
 - [The Military-Entertainment Complex: A New Facet of Information Warfare](http://one.fibreculturejournal.org/fcj-004-the-military-entertainment-complex-a-new-facet-of-information-warfare). Stephen Stockwell & Adam Muir.
 - [How the CIA Hoodwinked Hollywood](https://www.theatlantic.com/entertainment/archive/2016/07/operation-tinseltown-how-the-cia-manipulates-hollywood/491138/). Nicholas Schou.
 - [Japan: The Manga Military](http://thediplomat.com/2016/01/japans-creative-industrial-complex/). Matthew Brummer.
-
-### Reality warping tech
-- [Pictures May Not Lie But Doctored Photos Change History](http://www.science20.com/news_releases/pictures_may_not_lie_but_doctored_photos_change_history).
-- [Fake News Is About to Get Even Scarier than You Ever Dreamed](https://www.vanityfair.com/news/2017/01/fake-news-technology). Nick Bilton.
-- [reality warping tech](https://www.are.na/francis-tseng/reality-warping-tech)
-- Other examples
-    - <https://toinformistoinfluence.com/2012/06/15/images-a-matter-of-perspective/>
-    - <https://thelede.blogs.nytimes.com/2008/07/10/in-an-iranian-image-a-missile-too-many/?mcubz=1>
 
 ### Counter-strategies
 - [The Rise of Social Bots](https://cacm.acm.org/magazines/2016/7/204021-the-rise-of-social-bots/fulltext). Emilio Ferrara, Onur Varol, Clayton Davis, Filippo Menczer, & Alessandro Flammini
