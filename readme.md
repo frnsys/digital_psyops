@@ -69,11 +69,11 @@ Your grade will be computed as follows:
 | 10/19 | Python: Using the internet continued |                                                 |
 | 10/24 | Astroturfing & Political Bots        | [Readings](#astroturfing-and-political-bots)    |
 | 10/26 | Project time                         |                                                 |
-| 10/31 | Reality Warping Tech                 | [Readings](#reality-warping-tech)               |
+| 10/31 | The Military-Entertainment Complex   | [Readings](#the-military-entertainment-complex) |
 | 11/02 | Project time                         |                                                 |
-| 11/07 | The Economics of Attention           | [Readings](#the-economics-of-attention)         |
+| 11/07 | Reality Warping Tech                 | [Readings](#reality-warping-tech)               |
 | 11/09 | Project time                         |                                                 |
-| 11/14 | The Military-Entertainment Complex   | [Readings](#the-military-entertainment-complex) |
+| 11/14 | The Economics of Attention           | [Readings](#the-economics-of-attention)         |
 | 11/16 | Project time                         |                                                 |
 | 11/21 | Silicon Valley Ethics                | [Readings](#silicon-valley-ethics)              |
 | 11/23 | -Thanksgiving-                       |                                                 |
