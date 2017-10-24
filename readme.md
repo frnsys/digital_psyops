@@ -19,6 +19,7 @@ Note that because this course is new and experimental, the syllabus may be adjus
 - [Portrait of a botnet](https://medium.com/dfrlab/portrait-of-a-botnet-12fa9d5d6b3). Ben Nimmo.
 - [How Russian Propaganda Spread From a Parody Website to Fox News](https://www.nytimes.com/interactive/2017/06/07/world/europe/anatomy-of-fake-news-russian-propaganda.html). Neil MacFarquhar & Andrew Rossback.
 - [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/).
+- [Identifying FCC astroturfing](https://www.theverge.com/2017/5/10/15610744/anti-net-neutrality-fake-comments-identities)
 
 ## Learning Python resources
 
