@@ -80,8 +80,8 @@ Your grade will be computed as follows:
 | 11/28 | Counter-Strategies                   | [Readings](#counter-strategies)                 |
 | 11/30 | Project time                         |                                                 |
 | 12/05 | Project time                         |                                                 |
-| 12/07 | Project time                         |                                                 |
-| 12/12 | Project Presentations                | Project presentations due                       |
+| 12/07 | Project Presentations                | Project presentations due                       |
+| 12/12 | Project Presentations                |                                                 |
 | 12/14 | Project Presentations                |                                                 |
 
 ## Readings
